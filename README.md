@@ -48,7 +48,8 @@
 
 - Ferramentas
 
->[![Linux][Linux]][Linux-url]  [![git][git]][git-url]  [![GitHub][GitHub]][GitHub-url]
+>[![Linux][Linux]][Linux-url]  [![git][git]][git-url]  [![GitHub][GitHub]][GitHub-url] [![Trello][Trello]][Trello-url]  [![Slack][Slack]][Slack-url]
+
 
 [Linux]: https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white
 [Linux-url]: https://www.linux.org/
@@ -56,6 +57,10 @@
 [git-url]: https://git-scm.com/doc
 [GitHub]: https://img.shields.io/badge/git_hub-181717?style=for-the-badge&logo=github&logoColor=white
 [GitHub-url]: https://github.com/
+[Trello]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
+[Trello-url]: https://trello.com/
+[Slack]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+[Slack-url]: https://slack.com/
 
 
 - 📫 Conecte-se comigo
