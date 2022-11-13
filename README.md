@@ -1,7 +1,7 @@
 # 👋 Oi, Eu sou a Valéria Menezes
-#### Atualmente sou estudante de Desenvolvimento Web Full Stack
-#### Estou em busca de oportunidades de emprego na área de Desenvolvimento Web
-#### Algumas das tecnologias que estou aprofundando meus estudos:
+### Atualmente sou estudante de Desenvolvimento Web Full Stack
+### Estou em busca de oportunidades de emprego na área de Desenvolvimento Web
+### Algumas das tecnologias que estou aprofundando meus estudos:
 
 - Front-end
 
