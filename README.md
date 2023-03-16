@@ -1,7 +1,8 @@
 # 👋 Oi, Eu sou a Valéria Menezes
-### Atualmente sou estudante de Desenvolvimento Web Full Stack
-### Estou em busca de oportunidades de emprego na área de Desenvolvimento Web
-### Algumas das tecnologias que estou aprofundando meus estudos:
+#### Atuando como Student Summer - Currículo na Trybe
+Aos 18 anos tive meu primeiro contato com a programação e todas as possibilidades que esse universo traz. Decidi me qualificar profissionalmente para atuar na área de Desenvolvimento Web e desde então venho aprofundando meus conhecimentos em diversas tecnologias que você pode conferir abaixo.
+<br/>
+Acredito que constância e persistência nos estudos resultam em aprendizado e evolução!
 
 - Front-end
 
