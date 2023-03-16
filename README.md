@@ -1,4 +1,4 @@
-# 👋 Oi, Eu sou a Valéria Menezes
+# 👋 Olá, eu sou a Valéria Menezes
 ### Atuando como Student Summer - Currículo na Trybe
 Aos 18 anos tive meu primeiro contato com a programação e todas as possibilidades que esse universo traz. Decidi me qualificar profissionalmente para atuar na área de Desenvolvimento Web e desde então venho aprofundando meus conhecimentos em diversas tecnologias que podem ser conferidas abaixo.
 <br/>
