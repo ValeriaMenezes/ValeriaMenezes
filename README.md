@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou a Valéria Menezes
-### Atualmente na Turma 3 do programa 1000devs - Talentos para o bem!
-Aos 18 anos tive meu primeiro contato com a programação e todas as possibilidades que esse universo traz. Decidi me qualificar profissionalmente para atuar na área de Desenvolvimento Web e desde então venho aprofundando meus conhecimentos em diversas tecnologias que podem ser conferidas abaixo.
+Profissional da área de dados com atuação prática em engenharia de dados e testes em
+dados. Construo, monitoro e valido pipelines e datasets utilizando tecnologias como Python,
+PySpark, SQL e AWS Cloud. Formada em Ciência de Dados, com capacidade analítica e
+facilidade de interação com áreas de negócio.
 <br/>
-Acredito que constância e persistência nos estudos resultam em aprendizado e evolução!
 
 - Front-end
 
